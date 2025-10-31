@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "age": 99,
+      "email": "emily.smith@gmail.com",
+      "name": "Emily Smith"
+    },
+    {
+      "age": 98,
+      "email": "oliver.johnson@yahoo.com",
+      "name": "Oliver Johnson"
+    },
+    {
+      "age": 97,
+      "email": "ava.williams@hotmail.com",
+      "name": "Ava Williams"
+    },
+    {
+      "age": 96,
+      "email": "elijah.brown@aol.com",
+      "name": "Elijah Brown"
+    },
+    {
+      "age": 95,
+      "email": "isabella.davis@outlook.com",
+      "name": "Isabella Davis"
+    }
+  ]
+}
